@@ -12,13 +12,13 @@ I'm a bachelor student studying Electrical Engineering and Mathematics (Double M
 
 Research Interest
 ======
-I am generally curious about intersection of machine learning, information theory, statistics, and optimization. My main areas of interest include,
+I am generally curious about the intersection of machine learning, information theory, statistics, and optimization. My main areas of interest include:
 - Distributed Machine Learning
 - Neural Networks' Training and Inference Acceleration
 - Privacy and Fairness
 - High Dimensional Statistics
 
-I have worked on,
+I have worked on:
 - Neural Networks' Training and Inference Acceleration
 - Communication Channels in the Presence of Myopic Adversaries.
 - Privacy and Communication Chalenges in Federated Learning.
