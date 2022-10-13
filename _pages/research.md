@@ -12,7 +12,7 @@ redirect_from:
 Current Projects
 =====
 - ***LRSPDY: Low-Rank Decomposition with Speedup Guarantees:*** I am working on combining various low-rank decomposition techniques with [SPDY](https://arxiv.org/abs/2201.13096).
-- ***Loseless Adaptive Gradient Compression:***
+- ***Lossless Adaptive Gradient Compression:***
 I am working on a real-time adaptive algorithm that determines the lossless compression based on a composite loss inspired by [AMC](https://arxiv.org/abs/1802.03494) paper which combines layer-wise compression errors and the number of parameters of the model. The problem that we are looking at is similar as the one in [ACCORDION](https://arxiv.org/abs/2010.16248) and [AdaComp](https://arxiv.org/abs/1712.02679).
 - ***Understanding The Interplay between Privacy, Communication, and Utility in Federated Learning:*** I am exploring communication and privacy challenges inherent to federated learning as my undergrad thesis. My ultimate goal is to build upon the following fantastic papers:
 [vqSGD](https://arxiv.org/abs/1911.07971),
