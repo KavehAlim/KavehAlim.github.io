@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bsc Electrical Engineering and Mathematics, Sharif University of Technology, Tehran, Iran, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Scientific Intern: Research Assistant
+  * Institute of Science and Technology, Austria (IST Austria)
+  * Algoorithmic Solutions for Efficient Model Training and Inference
+  * Supervisor: Professor [Dan Alistarh](https://people.csail.mit.edu/alistarh/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Remote Research Intern:
+  * University in Bristol, England
+  * Communication Channels in the Presence of Myopic Adversaries.
+  * Supervisor: Professor [Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi)
 
 Publications
 ======
