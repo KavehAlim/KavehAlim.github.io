@@ -1,7 +1,7 @@
 ---
 title: "New Results on AVCs with Omniscient and Myopic Adversaries"
 collection: publications
-permalink: /publication/ISIT2022
+permalink: /publication/2022-02-Myopic-AVCs
 excerpt: 'This paper is about communication capacity in the presence of a malicious jamming adversary.'
 date: 2022-02-01
 venue: 'ISIT 2022'
