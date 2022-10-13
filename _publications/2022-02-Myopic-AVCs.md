@@ -1,9 +1,9 @@
 ---
 title: "New Results on AVCs with Omniscient and Myopic Adversaries"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-4-15
+permalink: /publication/ISIT2022
+excerpt: 'This paper is about communication capacity in the presence of a malicious jamming adversary.'
+date: 2022-02-01
 venue: 'ISIT 2022'
 paperurl: 'https://ieeexplore.ieee.org/document/9834632'
 citation: 'A. K. Yadav, M. Alimohammadi, Y. Zhang, A. J. Budkuley and S. Jaggi, "New Results on AVCs with Omniscient and Myopic Adversaries," 2022 IEEE International Symposium on Information Theory (ISIT), 2022.'
