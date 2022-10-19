@@ -21,7 +21,7 @@ I am generally curious about the intersection of machine learning, information t
 I have worked on:
 - Neural Networks' Training and Inference Acceleration
 - Communication Channels in the Presence of Myopic Adversaries.
-- Privacy and Communication Chalenges in Federated Learning.
+- Privacy and Communication Challenges in Federated Learning.
 
 News
 ======
