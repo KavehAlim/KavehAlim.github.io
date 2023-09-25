@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammadreza Alimohammadi"
+title                    : "Kaveh Alimohammadi"
 title_separator          : "-"
-name                     : &name "Mohammadreza Alimohammadi"
+name                     : &name "Kaveh Alimohammadi"
 description              : &description "personal description"
 url                      : https://mrzalm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammadreza"
+  name             : "Kaveh"
   avatar           : "avatar.jpeg"
-  bio              : "Undergraduate student at Sharif University"
-  location         : "Austria"
+  bio              : "Ph.D. student at MIT"
+  location         : "Cambridge, MA"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=rXtFSfwAAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mrezalim"
+  twitter          : "KavehAlim"
   vine             :
   weibo            :
   xing             :
