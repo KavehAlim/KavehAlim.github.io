@@ -2,22 +2,21 @@
 main:
   - title: "Home"
     url: /about/
-    
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/
-    
+
   - title: "Research"
-    url: /research/ 
-    
-  - title: "Courses"
-    url: /courses/ 
-    
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /research/
+
+  # - title: "Courses"
+  #   url: /courses/
+  #
+  # - title: "Teaching"
+  #   url: /teaching/
+  #
+  # - title: "CV"
+  #   url: /cv/
