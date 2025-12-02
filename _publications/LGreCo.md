@@ -1,7 +1,7 @@
 ---
 title: "L-GreCo: A Framework for Layerwise Adaptive Gradient Compression"
 collection: publications
-permalink: /publication/2023-10-L-GreCo
+permalink: /publication/GreCo
 excerpt: 'In this paper, we addressed optimal gradient compression in distributed training of neural networks. Our proposed algorithm, called L-GreCo, uses dynamic programming to find the optimal layer-wise compression. L-GreCo preserves the model accuracy while providing training-time speed-ups under different compression schemes on multiple tasks and architectures.'
 date: 2022-10-31
 venue: 'MlSys, 2024'
