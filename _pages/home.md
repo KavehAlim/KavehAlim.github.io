@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in [IDSS](https://idss.mit.edu/) at MIT and a student member of [LIDS](https://lids.mit.edu/) advised by [Navid Azizan](https://azizan.mit.edu/). Before coming to MIT, I earned a dual B.Sc. degree in Electrical Engineering and Mathematics from Sharif University of Technology.
+I am a third-year Ph.D. student in [IDSS](https://idss.mit.edu/) at MIT and a student member of [LIDS](https://lids.mit.edu/) advised by [Navid Azizan](https://azizan.mit.edu/). My research focuses on the post-training of large language models, with an emphasis on inference-time scaling, uncertainty quantification, and efficient inference algorithms.
 
-My research interests lie in the span of machine learning, information theory, statistics, optimization, and privacy.
-
-During my undergrad, I was very fortunate to work with [Dan Alistarh](https://people.csail.mit.edu/alistarh/), [Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi), and [Mohammad Hossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en).
+Previously, I earned a dual B.Sc. in Electrical Engineering and Mathematics from Sharif University of Technology. I have also had the privilege of working with [Dan Alistarh](https://people.csail.mit.edu/alistarh/), [Sidharth Jaggi](https://research-information.bris.ac.uk/en/persons/sidharth-sid-jaggi), and [Mohammad Hossein Yassaee](https://scholar.google.com/citations?user=Y6vuiBUAAAAJ&hl=en).
